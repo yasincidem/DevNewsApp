@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "728410532489",
+    "firebase_url": "https://internship-ec5dd.firebaseio.com",
+    "project_id": "internship-ec5dd",
+    "storage_bucket": "internship-ec5dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728410532489:android:9ffce296ea920eb8",
+        "android_client_info": {
+          "package_name": "com.yasincidem.internshiptask"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728410532489-rl3qvqp2okri5hditr906qcnp113s54m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yasincidem.internshiptask",
+            "certificate_hash": "5b579abbee8941a9b5ee19360cf0a508cd39f59f"
+          }
+        },
+        {
+          "client_id": "728410532489-fjvv0jr4orepa1205o5rvkvm4e9hg0iv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjQuSJHYldsuKsZW5-hlzm8m6bRgK-ZLs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728410532489-fjvv0jr4orepa1205o5rvkvm4e9hg0iv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
